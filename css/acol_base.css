@@ -15,7 +15,7 @@ border: 1px solid black;
 }
 
 div#nav {
-  color:navajowhite;
+  color:gold;
   background-color:saddlebrown;
   width:100%;
   padding-bottom:4px;
@@ -42,15 +42,15 @@ img.noborder {
   border: 0 none;
 }
 a {
-  color:peru;
+  color:burlywood;
   text-decoration:none;
   letter-spacing:1px;
 }
 a:hover {
-  color:burlywood;
+  color:peru;
 }
 a#current {
-  color:burlywood;
+  color:cornsilk;
 }
 #labels {
   float:left;
