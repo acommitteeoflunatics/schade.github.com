@@ -15,9 +15,11 @@ border: 1px solid black;
 }
 
 div#nav {
-  color:lightsteelblue;
+  color:navajowhite;
   background-color:saddlebrown;
-  width:100%;l
+  width:100%;
+  padding-bottom:4px;
+  padding-top:2px;
   
 }
 div#details {
