@@ -1,3 +1,15 @@
+/* link decoration */
+a {
+  color:burlywood;
+  text-decoration:none;
+  letter-spacing:1px;
+}
+a:hover {
+  color:gold;
+}
+a#current {
+  color:cornsilk;
+}
 body {
   background-color:black;
   color:white;
@@ -13,43 +25,31 @@ margin: 0 auto;
 width: 900px;
 border: 1px solid black;
 }
-
 div#nav {
   color:silver;
   background-color:saddlebrown;
   width:100%;
   padding-bottom:4px;
   padding-top:2px;
-
 }
-div#details {
-  margin-right:12%;
-  text-align:justify;
-  }
 div.footer {
   font-size:80%;
   color:peru;
 }
 div.width {
+  background:burlywood ;
+  ;background-color:#564E38 ;
   width:800px;
   text-align:left;
 }
 div.404 {
-  background:burlywood ;
-  font-size:150%;
+  font-size:200%;
   width:800px;
   text-align:left;
 }
 hr {
   border:0;
-  color:burlywood;
-}
-p.center {
-  background-color:burlywood ;
-  ;background-color:#564E38 ;
-}
-p.footer {
-  background-color:#564E38 ;
+  width:100%;
 }
 img {
   text-decoration:none;
@@ -58,31 +58,38 @@ img {
 img.noborder {
   border: 0 none;
 }
-a {
-  color:burlywood;
-  text-decoration:none;
-  letter-spacing:1px;
+/* general css IDs for layout manipulation */
+#contact {
+  text-align:left;
 }
-a:hover {
-  color:gold;
-}
-a#current {
-  color:cornsilk;
+#floater {
+  text-align:center;
 }
 #labels {
   float:left;
   text-align:right;
 }
-#contact {
+/* used to style 404 iframe pulling data from notfound.org */
+#notfound_org {
+  border:0;
+}
+/* general css classes for layout manipulation */
+/* layout styling for custom 404 page elements */
+.404 {
+  border:0;
+  background-color:rosybrown;
+  color:rosybrown;
+  font-size:200%;
   text-align:left;
+  width:800px;
 }
-iframe {
-  float:left;
-  margin-right:64px;
-}
-#floater {
-  text-align:center;
-}
+/* used to style a generic block of code */
+.code {}
+/* used to mark a public repo */
+.public {}
+/* used to mark a private repo */
+.private {}
+/* self-explanatory */
 .superscript {
   vertical-align: super;
   font-size:60%;
