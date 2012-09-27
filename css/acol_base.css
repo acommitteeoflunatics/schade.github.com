@@ -22,6 +22,7 @@ body {
 div#wrapper {
   background-color:#564E38 ;
   width:800px;
+  padding:2px;
 }
 div#nav {
   color:silver;
@@ -32,7 +33,11 @@ div#nav {
 }
 div.footer {
   font-size:80%;
-  color:peru;
+  color:silver;
+  background-color:saddlebrown;
+  width:100%;
+  padding-bottom:4px;
+  padding-top:2px;
 }
 div.width {
   width:800px;
