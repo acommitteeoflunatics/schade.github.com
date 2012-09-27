@@ -79,10 +79,10 @@ img.noborder {
 /* layout styling for custom 404 page elements */
 .404 {
   border:0;
-  background-color:rosybrown;
-  color:rosybrown;
+  background-color:white;
+  color:white;
   font-size:200%;
-  text-align:left;
+  text-align:right;
   width:800px;
 }
 /* used to style a generic block of code */
