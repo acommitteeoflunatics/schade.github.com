@@ -40,6 +40,10 @@ div.404 {
   width:800px;
   text-align:left;
 }
+hr {
+  border:0;
+  color:burlywood;
+}
 p.center {
   background-color:burlywood ;
   ;background-color:#564E38 ;
