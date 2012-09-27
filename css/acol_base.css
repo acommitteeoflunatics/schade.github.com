@@ -35,8 +35,8 @@ div.width {
   text-align:left;
 }
 div.404 {
-  background-color:burlywood ;
-  font-size:larger;
+  background:burlywood ;
+  font-size:150%;
   width:800px;
   text-align:left;
 }
