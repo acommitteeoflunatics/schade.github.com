@@ -39,6 +39,12 @@ div.404 {
   width:800px;
   text-align:left;
 }
+p.center {
+  background-color:#564E38 ;
+}
+p.footer {
+  background-color:#564E38 ;
+}
 img {
   text-decoration:none;
   border:thin solid;
