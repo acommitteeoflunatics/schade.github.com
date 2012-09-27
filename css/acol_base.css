@@ -1,17 +1,17 @@
 body {
   background-color:black;
-  color:white; 
+  color:white;
   font-size:80%;
   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
   text-align:left;
   margin-right:12%;
   margin-left:12%;
 }
-div#wrapper { 
-text-align: left; 
-margin: 0 auto; 
-width: 900px; 
-border: 1px solid black; 
+div#wrapper {
+text-align: left;
+margin: 0 auto;
+width: 900px;
+border: 1px solid black;
 }
 
 div#nav {
@@ -20,7 +20,7 @@ div#nav {
   width:100%;
   padding-bottom:4px;
   padding-top:2px;
-  
+
 }
 div#details {
   margin-right:12%;
@@ -31,6 +31,11 @@ div.footer {
   color:peru;
 }
 div.width {
+  width:800px;
+  text-align:left;
+}
+div.404 {
+  font-size:100%;
   width:800px;
   text-align:left;
 }
@@ -69,4 +74,4 @@ iframe {
 .superscript {
   vertical-align: super;
   font-size:60%;
-}   
+}
