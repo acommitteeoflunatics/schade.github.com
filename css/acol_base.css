@@ -22,7 +22,8 @@ body {
 div#wrapper {
   background-color:#564E38 ;
   width:800px;
-  padding:2px;
+  padding-left:2px;
+  padding-right:2px;
 }
 div#nav {
   color:silver;
