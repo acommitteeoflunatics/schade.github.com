@@ -89,11 +89,12 @@ img.noborder {
 }
 /* used to mark a public repo */
 .public {
+  list-style-image: url('images/unlocked-16x16.jpg');
   color:chartreuse;
-  list-style-image: url('images/locked-16x16.jpg');
 }
 /* used to mark a private repo */
 .private {
+  list-style-image: url('images/locked-16x16.jpg');
   color:tomato;
 }
 /* self-explanatory */
