@@ -44,11 +44,6 @@ div.width {
   width:800px;
   text-align:left;
 }
-div.404 {
-  font-size:200%;
-  width:800px;
-  text-align:left;
-}
 hr {
   border:0;
   width:100%;
@@ -77,10 +72,10 @@ img.noborder {
 }
 /* general css classes for layout manipulation */
 /* layout styling for custom 404 page elements */
-.404 {
+.fourohfour {
   border:0;
-  background-color:white;
-  color:white;
+  background-color:silver;
+  color:silver;
   font-size:200%;
   text-align:right;
   width:800px;
