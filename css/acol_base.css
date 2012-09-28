@@ -90,6 +90,7 @@ img.noborder {
 /* used to mark a public repo */
 .public {
   color:chartreuse;
+  list-style-image: url('images/locked-16x16.jpg');
 }
 /* used to mark a private repo */
 .private {
