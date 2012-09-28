@@ -22,8 +22,6 @@ body {
 div#wrapper {
   background-color:#5E4D38;
   width:800px;
-  padding-left:2px;
-  padding-right:2px;
 }
 div#nav {
   color:silver;
@@ -56,7 +54,7 @@ img {
 }
 img.noborder {
   border: 0 none;
-  padding-top:1px;
+  padding-top:4px;
 }
 /* general css IDs for layout manipulation */
 #contact {
