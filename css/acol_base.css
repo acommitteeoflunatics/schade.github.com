@@ -45,6 +45,8 @@ div.width {
   text-align:left;
 }
 hr {
+  background-color:peru;
+  color:peru;
   border:0;
   width:100%;
 }
@@ -54,6 +56,7 @@ img {
 }
 img.noborder {
   border: 0 none;
+  padding-top:1px;
 }
 /* general css IDs for layout manipulation */
 #contact {
@@ -74,10 +77,8 @@ img.noborder {
 /* layout styling for custom 404 page elements */
 .fourohfour {
   border:0;
-  background-color:silver;
-  color:silver;
-  font-size:200%;
-  text-align:right;
+  font-size:100%;
+  text-align:left;
   width:800px;
 }
 /* used to style a generic block of code */
