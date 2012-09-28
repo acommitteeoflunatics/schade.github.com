@@ -21,7 +21,7 @@ body {
 }
 div#wrapper {
   background-color:#5E4D38;
-  width:800px;
+  width:100%;
 }
 div#nav {
   color:silver;
