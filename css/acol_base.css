@@ -95,11 +95,17 @@ margin: 0px;
 }
 /* used to mark a public repo */
 li.public {
-  list-style: url('images/unlocked-16x16.jpg');
+  padding-left: 10px;
+  background-image: url(images/icon_unlocked.gif);
+  background-repeat: no-repeat;
+  background-position: 0 .5em;
 }
 /* used to mark a private repo */
 li.private {
-  list-style: url('images/locked-16x16.jpg');
+  padding-left: 10px;
+  background-image: url(images/icon_locked.gif);
+  background-repeat: no-repeat;
+  background-position: 0 .5em;
 }
 /* self-explanatory */
 .superscript {
