@@ -87,6 +87,12 @@ img.noborder {
   font-family:monospace;
   text-align:left
 }
+ul
+{
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+}
 /* used to mark a public repo */
 li.public {
   list-style: url('images/unlocked-16x16.jpg');
