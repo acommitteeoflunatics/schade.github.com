@@ -20,7 +20,7 @@ body {
   margin-left:12%;
 }
 div#wrapper {
-  background-color:#564E38 ;
+  background-color:sienna ;
   width:800px;
   padding-left:2px;
   padding-right:2px;
@@ -82,11 +82,17 @@ img.noborder {
   width:800px;
 }
 /* used to style a generic block of code */
-.code {}
+.code {
+  font-family:monospace;
+}
 /* used to mark a public repo */
-.public {}
+.public {
+  color:chartreuse;
+}
 /* used to mark a private repo */
-.private {}
+.private {
+  color:tomato;
+}
 /* self-explanatory */
 .superscript {
   vertical-align: super;
