@@ -34,11 +34,11 @@ div#nav {
 }
 div.footer {
   font-size:80%;
-  color:silver;
-  background-color:saddlebrown;
+  color:peru;
+  background-color:black;
   width:100%;
-  padding-bottom:4px;
-  padding-top:2px;
+  padding-bottom:1px;
+  padding-top:4px;
 }
 div.width {
   width:800px;
