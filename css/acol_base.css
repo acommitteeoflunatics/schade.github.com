@@ -6,38 +6,48 @@ body {
 }
 div#wrapper { 
   text-align: left; 
-  width: 900px; 
+  width: 100%; 
   margin-left: auto;
   margin-right: auto 
 }
 div#nav {
-  width: 900px;
+  width: 100%;
   padding-top: 5px;
   padding-bottom: 5px;
   clear:both;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto 
 }
 div#details {
   margin-right:12%;
   text-align:justify;
+  margin-left: auto;
+  margin-right: auto 
   }
 div.header {
-  width: 900px;
+  font-size: 80%;
   padding-top: 5px;
   padding-bottom: 5px;
   border: none;
+  margin-left: auto;
+  margin-right: auto 
 }
 div.footer {
   font-size:80%;
-  width: 900px;
+  width: 100%; 
   padding-top: 5px;
   padding-bottom: 5px;
   vertical-align: middle;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto 
 }
 div.width {
-  width:800px;
+  width: 100%; 
   text-align:left;
+  margin-left: auto;
+  margin-right: auto 
 }
 img {
   text-decoration:none;
@@ -83,8 +93,8 @@ iframe {
   border:0;
   font-size:100%;
   text-align:left;
-  width:800px;
-}
+  width: 100%; 
+  
 /* used to style a generic block of code */
 .code {
   margin-left:auto;
