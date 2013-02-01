@@ -6,8 +6,9 @@ body {
 }
 div#wrapper { 
   text-align: left; 
-  margin: 0 auto; 
   width: 900px; 
+  margin-left: auto;
+  margin-right: auto 
 }
 div#nav {
   width: 900px;
