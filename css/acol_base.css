@@ -26,10 +26,6 @@ div.header {
   padding-bottom: 5px;
   border: none;
 }
-div.breadcrumb {
-  float:center;
-  text-align: center;
-}
 div.footer {
   font-size:80%;
   width: 900px;
