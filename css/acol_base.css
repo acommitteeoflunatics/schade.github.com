@@ -1,6 +1,4 @@
 body {
-  background-color:black;
-  color:white; 
   font-family:" Ubuntu", "Droid Sans", "Lucida Sans Unicode", sans-serif;
   text-align:left;
   margin-right:12%;
@@ -10,14 +8,11 @@ div#wrapper {
   text-align: left; 
   margin: 0 auto; 
   width: 900px; 
-  /*border: 1px solid silver; */
 }
 div#nav {
-  color:silver;
   width: 900px;
   padding-top: 5px;
   padding-bottom: 5px;
-  /*border: 1px outset silver;*/
   clear:both;
   text-align: center;
 }
@@ -29,7 +24,6 @@ div.header {
   width: 900px;
   padding-top: 5px;
   padding-bottom: 5px;
-  color:silver;
   border: none;
 }
 div.breadcrumb {
@@ -38,7 +32,6 @@ div.breadcrumb {
 }
 div.footer {
   font-size:80%;
-  color:silver;
   width: 900px;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -68,17 +61,6 @@ img.centered {
 }
 img.noborder {
   border: 0 none;
-}
-a {
-  color:dodgerblue;
-  text-decoration:none;
-  letter-spacing:1px;
-}
-a:hover {
-  color:cornsilk;
-}
-a#current {
-  color:cornsilk;
 }
 #labels {
   float:left;
