@@ -83,11 +83,11 @@ iframe {
   font-size:100%;
   text-align:left;
   width:800px;
+  margin-left:auto;
+  margin-right:auto;
 }
 /* used to style a generic block of code */
 .code {
-  margin-left:auto;
-  margin-right:auto;
   width:80%;
   font-family:monospace;
   text-align:left
