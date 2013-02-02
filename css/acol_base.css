@@ -73,6 +73,9 @@ img#html5-logo {
   margin-right: auto;
   height: 32px;
 }
+img.icon {
+  float: left;
+}
 img.centered {
   text-decoration:none;
   display: block;
