@@ -6,12 +6,10 @@ body {
 }
 div#outer {
   width: 900px;
-  clear: both;
   margin-left: auto;
   margin-right: auto;
 }
 div#wrapper { 
-  clear: both;
   text-align: left; 
   width: 100%; 
   margin-left: auto;
@@ -32,7 +30,6 @@ div#details {
   margin-right: auto;
   }
 div.header {
-  clear: both;
   font-size: 80%;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -41,7 +38,6 @@ div.header {
   margin-right: auto;
 }
 div.footer {
-  clear: both;
   font-size:80%;
   width: 100%; 
   padding-top: 5px;
@@ -52,7 +48,6 @@ div.footer {
   margin-right: auto;
 }
 div.width {
-  clear: both;
   width: 100%; 
   text-align:left;
   margin-left: auto;
@@ -117,15 +112,15 @@ iframe {
   font-size:100%;
   text-align:left;
   width: 100%; 
-}  
+}
 /* used to style a generic block of code */
-div.code {
+.code {
   margin-left:auto;
   margin-right:auto;
   width:80%;
-  font-family:"Droid Sans Mono", "monofur", monospace;
-  font-size:14px;
-  text-align:left;
+  font-family:"monospace";
+  font-size:11px
+  text-align:left
 }
 ul {
   list-style-type: none;
