@@ -123,8 +123,8 @@ div.code {
   margin-left:auto;
   margin-right:auto;
   width:80%;
-  font-family:"monofur", "Droid Sans Mono", monospace;
-  font-size:11px;
+  font-family:"Droid Sans Mono", "monofur", monospace;
+  font-size:14px;
   text-align:left;
 }
 ul {
