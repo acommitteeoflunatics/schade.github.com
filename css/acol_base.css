@@ -119,8 +119,8 @@ iframe {
   margin-right:auto;
   width:80%;
   font-family:"monospace";
-  font-size:11px
-  text-align:left
+  font-size:11px;
+  text-align:left;
 }
 ul {
   list-style-type: none;
