@@ -35,14 +35,9 @@ body {  font-family:"NotCourierSansRegular", "Droid Sans", sans-serif;
   margin-right:12%;
   margin-left:12%;
 }
-div#outer {
-  width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-}
 div#wrapper { 
   text-align: left; 
-  width: 100%; 
+  width: 800px; 
   margin-left: auto;
   margin-right: auto;
 }
