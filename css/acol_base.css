@@ -67,14 +67,14 @@ div#wrapper {
 #primary li a {
   padding: 5px 15px;
   color: #6495ED;
-  text-shadow: 2px 2px 7px #fff;
+  text-shadow: 2px 2px 7px #FF9912;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
 #primary li a:hover {
   color: #1e90ff;
-  background: #111;
+  background: #292421;
 }
 div#details {
   text-align:center;
