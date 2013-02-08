@@ -54,6 +54,9 @@ div#wrapper {
   margin-top: 10px;
   margin-bottom: 20px;
   padding-top: 14px;
+  -webkit-box-shadow: 1px 0px 3px #ccc;
+  -moz-box-shadow: 1px 0px 3px #ccc;
+  box-shadow: 1px 0px 3px #ccc;
   font: bold 13px "NotCourierSansBold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -65,6 +68,11 @@ div#wrapper {
 #primary li a {
   padding: 5px 15px;
   color: #1e90ff;
+  text-shadow: 1px 1px 1px #ccc;
+}
+#primary li a:hover {
+  color: #9c9c9c;
+  background: #fff;
 }
 div#details {
   text-align:center;
