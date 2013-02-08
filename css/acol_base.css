@@ -31,6 +31,7 @@
 }
 
 body {  font-family:"NotCourierSansRegular", "Droid Sans", sans-serif;
+  background: url(../images/bg-left.png) left top no-repeat;
   text-align:center;
   margin-right:7%;
   margin-left:7%;
@@ -40,7 +41,6 @@ div#wrapper {
   width: 800px; 
   margin-left: auto;
   margin-right: auto;
-  background: url(../images/bg-left.png) left top no-repeat;
 }
 #primary {
   width: 100%;
