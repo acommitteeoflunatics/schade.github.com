@@ -1,8 +1,38 @@
 @font-face {
+    font-family: 'SourceSansProRegular';
+    src: url('SourceSansPro-Regular-webfont.eot');
+    src: url('SourceSansPro-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceSansPro-Regular-webfont.woff') format('woff'),
+         url('SourceSansPro-Regular-webfont.ttf') format('truetype'),
+         url('SourceSansPro-Regular-webfont.svg#SourceSansProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
+@font-face {
+    font-family: 'NotCourierSansRegular';
+    src: url('NotCourierSans-webfont.eot');
+    src: url('NotCourierSans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotCourierSans-webfont.woff') format('woff'),
+         url('NotCourierSans-webfont.ttf') format('truetype'),
+         url('NotCourierSans-webfont.svg#NotCourierSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NotCourierSansBold';
+    src: url('NotCourierSans-Bold-webfont.eot');
+    src: url('NotCourierSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotCourierSans-Bold-webfont.woff') format('woff'),
+         url('NotCourierSans-Bold-webfont.ttf') format('truetype'),
+         url('NotCourierSans-Bold-webfont.svg#NotCourierSansBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   background: url(images/bg-left.png) no-repeat;
-  font-family:"Ubuntu", "Droid Sans", "Lucida Sans Unicode", sans-serif;
+  font-family:"NotCourierSansRegular", "Droid Sans", sans-serif;
   text-align:left;
   margin-right:12%;
   margin-left:12%;
