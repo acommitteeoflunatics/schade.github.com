@@ -59,7 +59,7 @@ div#wrapper {
   -webkit-box-shadow: 1px 0px 3px #fff;
   -moz-box-shadow: 1px 0px 3px #fff;
   box-shadow: 1px 0px 3px #fff;
-  font: bold 13px "NotCourierSansBold", sans-serif;
+  font: bold 15px "NotCourierSansBold", sans-serif;
   text-transform: lowercase;
   letter-spacing: 1px;
 }
