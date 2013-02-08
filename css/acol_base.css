@@ -48,14 +48,23 @@ div#wrapper {
   margin-left: auto;
   margin-right: auto;
 }
-div#nav {
+#primary {
   width: 100%;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  clear:both;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  height:28px
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-top: 14px;
+  font: bold 13px "NotCourierSansBold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#primary ul li {
+  display: inline;
+  padding-left: 43px;
+}
+#primary li a {
+  padding: 5px 15px;
+  color: #1e90ff;
 }
 div#details {
   text-align:center;
