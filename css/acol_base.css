@@ -1,8 +1,12 @@
+@font-face {
+
+}
 body {
   font-family:"Ubuntu", "Droid Sans", "Lucida Sans Unicode", sans-serif;
   text-align:left;
   margin-right:12%;
   margin-left:12%;
+  background: url(images/bg-left) no-repeat;
 }
 div#outer {
   width: 900px;
