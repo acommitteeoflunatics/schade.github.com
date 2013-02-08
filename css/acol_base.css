@@ -54,9 +54,9 @@ div#wrapper {
   padding-top: 14px;
   margin-top: 5px;
   margin-bottom: 5px;
-  -webkit-box-shadow: 1px 0px 3px #ccc;
-  -moz-box-shadow: 1px 0px 3px #ccc;
-  box-shadow: 1px 0px 3px #ccc;
+  -webkit-box-shadow: 1px 0px 3px #fff;
+  -moz-box-shadow: 1px 0px 3px #fff;
+  box-shadow: 1px 0px 3px #fff;
   font: bold 13px "NotCourierSansBold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -74,8 +74,8 @@ div#wrapper {
   border-radius: 4px;
 }
 #primary li a:hover {
-  color: #9c9c9c;
-  background: #fff;
+  color: #fff;
+  background: #9c9c9c;
 }
 div#details {
   text-align:center;
