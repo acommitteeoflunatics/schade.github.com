@@ -56,9 +56,6 @@ div#wrapper {
   padding-top: 12px;
   margin-top: 5px;
   margin-bottom: 5px;
-  -webkit-box-shadow: -2px -2px 7px #fff;
-  -moz-box-shadow: -2px -2px 7px #fff;
-  box-shadow: -2px -2px 7px #fff;
   font: bold 15px "NotCourierSansBold", Ubuntu, sans-serif;
   text-transform: lowercase;
   letter-spacing: 1px;
