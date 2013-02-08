@@ -42,7 +42,7 @@ div#wrapper {
   margin-right: auto;
 }
 #logo {
-  background: url(images/bg-left.png) no-repeat;
+  background: url(../images/bg-left.png) no-repeat;
   float: left;
   opacity: 1;
 }
