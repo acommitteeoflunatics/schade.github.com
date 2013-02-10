@@ -31,7 +31,7 @@
 }
 
 body {  font-family:"NotCourierSansRegular", "Droid Sans", sans-serif;
-  background: url(../images/bg-left-penguins-behind.png) left top no-repeat;
+  background: url(../images/bg-left-no-penguins-behind.png) left top no-repeat,  url(../images/just-penguins.png) right top no-repeat;
   text-align:center;
   margin-right:7%;
   margin-left:7%;
